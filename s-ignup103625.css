@@ -1,0 +1,135 @@
+.s-ignup103625-container {
+  min-height: 100vh;
+}
+.s-ignup103625-s-ignup103625 {
+  width: 1440px;
+  height: 1240px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.s-ignup103625-trade-maxi-logo103626 {
+  top: 16px;
+  left: 555px;
+  width: 246px;
+  height: 105px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.s-ignup103625-text {
+  top: 26px;
+  left: 121px;
+  color: rgba(23, 54, 179, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Comic Sans MS;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.s-ignup103625-trade-maxilogo-i10362678229 {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 105px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.s-ignup103625-image {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 105px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.s-ignup103625-text01 {
+  top: 196px;
+  left: 577px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  text-decoration: none;
+}
+.s-ignup103625-text02 {
+  top: 266px;
+  left: 432px;
+  color: rgba(0, 0, 0, 1);
+  width: 576px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: center;
+  line-height: 24px;
+  text-decoration: none;
+}
+.s-ignup103625-text06 {
+  top: 374px;
+  left: 622px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: 24px;
+  text-decoration: none;
+}
+.s-ignup103625-text07 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.s-ignup103625-text08 {
+  color: rgba(23, 54, 179, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.s-ignup103625-text09 {
+  color: rgba(23, 54, 179, 1);
+  height: auto;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.s-ignup103625-image1 {
+  top: 144px;
+  left: 695px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
